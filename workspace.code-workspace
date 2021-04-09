@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../../../../Downloads/howdy-final/howdy/css"
+		},
+		{
+			"name": "portfolio",
+			"path": "../.."
+		},
+		{
+			"name": "fonts",
+			"path": "../../../../../Downloads/howdy-final/howdy/fonts"
+		},
+		{
+			"name": "images",
+			"path": "../../../../../Downloads/howdy-final/howdy/images"
+		},
+		{
+			"name": "inc",
+			"path": "../../../../../Downloads/howdy-final/howdy/inc"
+		},
+		{
+			"name": "js",
+			"path": "../../../../../Downloads/howdy-final/howdy/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
